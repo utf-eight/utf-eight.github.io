@@ -23,7 +23,10 @@ body
     line-height: 1.75;
     letter-spacing: 0.6px;
     color: var(--font-color-2);
-    background: #111;
+    background-image:url("../img/web_bkg_img.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 a
 {
